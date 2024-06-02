@@ -1,4 +1,5 @@
 //English-Turkish language exchange
+// Deneme
 
 document.querySelector(".turkish-button").addEventListener("click", (e) => {
     document.querySelector(".warning").innerText = "Düğmenin çalışması için en az bir ses seçmeniz gerekir.";
